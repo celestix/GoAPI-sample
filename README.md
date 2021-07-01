@@ -7,6 +7,7 @@ Especially for those who want to develop API in Go and are beginners.
 * Endpoint Vars - <br>
 `/token` - To generate API token
 `/check?token={your_token}&user_id={user's id}` - To check user id (echoing back in our case)
+
 -----------------   
 
 ## Support   
