@@ -10,9 +10,7 @@ Especially for those who want to develop API in Go and are beginners.
 -----------------   
 
 ## Support   
-Join the [telegram group](https://t.me/stardevbots) for support and the [channel](https://t.me/StarDevs) for updates.
-
-Report bugs, give feature requests there..   
+Report bugs, give feature requests through github issues,  
 Please fork and star the repository if you liked it.
 
 ## Disclaimer
