@@ -53,7 +53,7 @@ func genToken(n int) string {
 func (s *server) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
 	w.WriteHeader(http.StatusOK)
-	w.Write([]byte(`{"status_code":"200","ok":true}`))
+	w.Write([]byte(`{"status_code":"200","ok":true,"working":true}`))
 }
 
 

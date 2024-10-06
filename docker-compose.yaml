@@ -1,0 +1,7 @@
+services:
+   sample-api:
+     build: .
+     container_name: sample-api
+     ports:
+      - 8182:8182
+
