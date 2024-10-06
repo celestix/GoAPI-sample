@@ -1,6 +1,5 @@
 //   GoAPI-sample
-//   Copyright (C) 2021 AnonyIndian (github.com/anonyindian)
-//   @StarDevs 
+//   Copyright (C) 2024 Anony (github.com/celestix) 
 
 //   This program is distributed in the hope that it will be useful,
 //   but WITHOUT ANY WARRANTY; without even the implied warranty of
